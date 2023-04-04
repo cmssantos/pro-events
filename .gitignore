@@ -475,3 +475,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+ProEvents.db
+ProEvents.db-shm
+ProEvents.db-wal
